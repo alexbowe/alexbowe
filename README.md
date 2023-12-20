@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- add a banner that says my name -->
+
+<!-- add links separated by | -->
+<!-- introduction to background -->
+<!-- how to contact me -->
+
 <!--
 **alexbowe/alexbowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
