@@ -1,4 +1,4 @@
-<img align="left" src="https://www.alexbowe.com/content/images/size/w256/2021/12/IMG_8283-4.jpg" width="14%">
+<!-- <img align="left" src="https://www.alexbowe.com/content/images/size/w256/2021/12/IMG_8283-4.jpg" width="14%"> -->
 
 ### Hey!
 
