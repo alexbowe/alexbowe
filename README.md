@@ -2,7 +2,7 @@
 
 ### Hi!
 
-I'm **Alex**, a Senior Software Engineer and researcher with 7+ years of experience in route planning for self-driving cars, and a PhD in compressed data structures for Information Retrieval and Bioinformatics.
+I'm **Alex**, a Staff Software Engineer and researcher with 7+ years of experience in route planning for self-driving cars, and a PhD in compressed data structures for Information Retrieval and Bioinformatics. I'm currently working on performance at Groq.
 
 Please feel free to connect with me here: [alexbowe.com](https://alexbowe.com) | [x.com/alexbowe](https://x.com/alexbowe) | [linkedin.com/in/alexbowe](https://linkedin.com/in/alexbowe) | [alex@alexbowe.com](mailto:alex@alexbowe.com)
 
